@@ -1,0 +1,20 @@
+ls - list all the files or folders in the current directory.
+
+pwd - shows you the present working directory
+
+~/ - takes you back to your user directory
+
+cp - copies the file or folder
+You can copy files or folders to a different directory. Remember to use the -r 
+agument to copy recursively.
+
+rm - Removes file or folder. Remember to use -r to recursively remove the folder.
+
+mv - To move files or folder to a different directory. Remember to use -r for
+folders. You can rename files with mv
+
+chown - change ownership of a file or folder. If you need admin access, you do sudo {filename} 
+
+touch - create a file
+
+/mount - is where your usb is located.

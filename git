@@ -1,0 +1,14 @@
+init - Initialized your folder for version control
+
+add - add the file for commits
+
+commit - saves your file
+
+status - check to see if a file is added or not
+
+log - shows you a list of commits
+
+checkout - changes the state of the folder to the time the file was commit
+
+How to create a new branch:
+Do "git checkout {id}" and do "git checkout -b {branchName}"
