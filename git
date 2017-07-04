@@ -12,3 +12,5 @@ checkout - changes the state of the folder to the time the file was commit
 
 How to create a new branch:
 Do "git checkout {id}" and do "git checkout -b {branchName}"
+
+What is a branch?
